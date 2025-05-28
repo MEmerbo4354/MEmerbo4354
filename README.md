@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MEmerbo4354
-- 👀 I’m interested in Game Hacks
-- 🌱 I’m currently learning how to make my own roblox hack
-- 💞️ I’m looking for a scripter and a ui builder
-- 📫 How to reach me: https://www.youtube.com/@MemerBei (join the discord)
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking for someone who is good at python
+- 📫 How to reach me: https://www.youtube.com/@Memerbei (Comment on a video) or https://discord.gg/bG6mpnU3bg (in the #Support Channel)
 - 😄 Pronouns: Benyamin/MemerBoi
 - ⚡ Fun fact: I am cool
 
